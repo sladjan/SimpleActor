@@ -1,0 +1,4 @@
+
+logLevel := sbt.Level.Info
+
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
